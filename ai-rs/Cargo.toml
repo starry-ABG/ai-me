@@ -1,0 +1,4 @@
+[workspace]
+members = ["learn-candle"]
+
+resolver = "2"
